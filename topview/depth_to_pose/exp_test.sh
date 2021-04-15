@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=1 python main.py --train_dataset ITOP --validation_dataset PANOPTIC --test_dataset PANOPTIC --epochs 15 --experiment_code itop_panoptic_panoptic

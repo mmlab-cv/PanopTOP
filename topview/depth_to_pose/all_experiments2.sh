@@ -1,0 +1,2 @@
+CUDA_VISIBLE_DEVICES=1 python main.py --train_dataset BOTH --validation_dataset BOTH --test_dataset ITOP --epochs 20 --experiment_code both_both_itop
+CUDA_VISIBLE_DEVICES=1 python main.py --train_dataset BOTH --validation_dataset BOTH --test_dataset PANOPTIC --epochs 20 --experiment_code both_both_panoptic

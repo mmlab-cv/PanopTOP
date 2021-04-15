@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=1 python main.py --train_dataset PANOPTIC --epochs 20
