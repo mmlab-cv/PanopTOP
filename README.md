@@ -16,8 +16,6 @@ The dataset can be found at [this Google Drive link](https://drive.google.com/fi
 Dataset   
 │
 └───front
-│   │   file011.txt
-│   │   file012.txt
 │   │
 │   └───camera_params
 │   │   │   *.json
