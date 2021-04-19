@@ -101,3 +101,6 @@ We are navigating with the use of keyboard: A: previous image, D: next image
 The viewpoint at the beginning is probably bad. Please manipulate the viewpoint and save it with pressing S. It will be saved to camera.json file. Close and open again. Press L to load the viewpoint, now it should work with set viewpoint.  
 
 **WARNING**: don’t manipulate size of the window, loading of viewpoint will not work then. If you did (for example if display changed), make Save and Load again.
+
+## Creation of a new dataset from custom viewpoints
+In order to create a new dataset from custom viewpoints starting from the panoptic dataset, refer to the folder **datasets/PANOPTIC/make_dataset/**, and in particular the script **make_dataset.py**
