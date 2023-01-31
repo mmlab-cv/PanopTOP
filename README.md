@@ -1,5 +1,6 @@
-# ICIP-2021-2346
-Anonymous dataset and code for **ICIP 2021 paper #2346**
+# PanopTOP
+Official code and dataset for the paper [**PanopTOP: a framework for generating viewpoint-invariant human pose
+estimation datasets**](https://openaccess.thecvf.com/content/ICCV2021W/DSC/papers/Garau_PanopTOP_A_Framework_for_Generating_Viewpoint-Invariant_Human_Pose_Estimation_Datasets_ICCVW_2021_paper.pdf)
 
 ## Requirements
 - numpy
